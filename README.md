@@ -7,7 +7,7 @@ Hi there I am Garv Vyas 👋
   
  <img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raugaa&layout=compact" />
 
- <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+ <img align="Left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
      
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
      
