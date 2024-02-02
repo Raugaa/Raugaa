@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there I am Garv Vyas 👋<br><br>🔭 I’m currently studying in KJ SOMAIYA COLLAGE OF ENGINEERING (FY)<br>🌱 I’m currently learning Python and HTML<br>📫 How to reach me: MY GIT HUB ID:-Raugaa<br>⚡ I am Lazy but Smart
+Hi there I am Garv Vyas 👋<br><br>🔭 I’m currently studying in KJ SOMAIYA COLLEGE OF ENGINEERING (SY)<br>🌱 I’m currently learning C++ and React <br>📫 How to reach me: MY GIT HUB ID:-Raugaa<br>⚡ I am Lazy but Smart
 
 
 ## 🌐 Socials:
