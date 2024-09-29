@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in KJ SOMAIYA COLLEGE OF ENGINEERING (SY)<br>👯  I’m currently learning C++ and React <br>💬 How to reach me: MY GIT HUB ID:-Raugaa<br>⚡  I am Lazy but Smart
+🔭 I’m currently studying in KJ SOMAIYA COLLEGE OF ENGINEERING (TY)<br>👯  I’m currently learning C++ and React <br>💬 How to reach me: MY GIT HUB ID:-Raugaa<br>⚡  I am Lazy but Smart
 
 
 ## 🌐 Socials:
